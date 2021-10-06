@@ -1,6 +1,6 @@
 [submodule "rbkairos_common"]
 	path = rbkairos_common
-	url = https://github.com/liuyangdh/rbkairos_common
+	url = git@github.com:liuyangdh/rbkairos_common.git
 [submodule "franka_panda_description"]
 	path = franka_panda_description
 	url = git@github.com:aica-technology/franka_panda_description.git
